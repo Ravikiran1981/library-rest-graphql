@@ -1,7 +1,4 @@
 Library System
-GraphQL (Spring Boot 3, JPA, H2/MySQL)
-
-A simple Library Management backend built with Spring Boot 3, offering both REST endpoints and GraphQL API for managing Authors and Books.
 
 GraphQL API
 
